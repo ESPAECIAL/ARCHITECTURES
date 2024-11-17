@@ -1,3 +1,3 @@
-# ARCHITECTURES
+# ARQUITECTURAS
 
-Jupyter Notebooks con ejemplos espaciales utilizando arquitecturas
+Jupyter Notebooks con ejemplos espaciales utilizando arquitecturas computacionales
