@@ -1,0 +1,48 @@
+Objective: inform, make community, teach how can be benefical for space problems not talking about my interest on this to make people interest in this, just show an example
+practice the friend, motivator and educator ways
+
+LA FORMA MÁS SIMPLE DE MATEMÁTICA EN COMPUTACIÓN: PIPELINE
+
+
+"Matemática Fácil en Computación: Pipeline"
+"Pipeline: La Clave de la Computación Sencilla"
+"La Matemática Más Simple en Programación"
+"Pipeline: El Secreto de la Computación Simple"
+"Pipeline: Simplificando la Matemática en Programación"
+"¿Qué es un Pipeline en Computación?"
+"Pipeline: Computación Fácil y Eficiente"
+"Simplifica la Matemática en Computación con Pipeline"
+"Pipeline: La Matemática Básica en Programación"
+"Pipeline en Computación: ¡Así de Simple!"
+
+
+PIPELINE: simple MATEMÁTICA PURA
+
++ Motivator
+La humanidad ralentiza procesos pero es tan inteligente.
+Repetir es para máquinas, no para vivir:
+Desplegar software tan valioso que no puede fallar, por ejemplo.
+La sociedad no quiere repetitivos seres, sino valores para vivir mejores.
+Solo la inteligencia innova, ¿entonces para qué usar algo único en lo evidente?
+Materializar ideas hasta hacerlas muy simples e independientes de interacción humana suele tomar tantísimo tiempo!
+La automatización es lo que sigue para conservar y disfrutar la vida!
+Muchas veces en un proceso Y depende de X, Y es bien conocido y su comportamiento varía si X también, si esto frecuente, para qué testear manualmente Y si X cambia muchas veces?
+Gastar energía como locos siempre o pipelines como organizadores reusables e independientes.
+
++ Educator
+Las disciplinas constructivas se refieren con "arquitectura" a una generalización procedural. La arquitectura de pipelines se explica muy claramente: algo que tiene bifurbaciones donde tener inicio y fin es una propiedad necesaria. Una tubería simple no tiene switches ni innecesarios tubos, se trata de una optimización total de recursos cuando es muy bien conocido lo que va a pasar de principio a fin. Otras arquitecturas parecidas ofrecen la flexibilidad para una automatización más compleja donde en la estructura las cosas retornan o necesitan esperar un evento particular para continuar, como cuando eres nuevo en una ciudad y no sabes a dónde ir a bailar o cuando recurrentemente cocinas pero eres genial para delicias improvisar y vas más allá del huevo con café y pan.
+
+Por qué la matemática de una tubería es simple? Porque no hay incertidumbre y todo es una línea, todo es tan concreto, conocido y directo como en ningún otro proceso. El cálculo y la probabilidad, por ejemplo, introducen incertidumbre y errores inesperados aunque medibles o inferenciables. Esto hace de la pipeline un modelo que usaríamos para respirar:
+ 	1. nacer activa la pipeline (input (tiempo de vida): 0 segundos),
+ 	2. inhalas y exhalas mientras eres ser vivo
+ 	3. te vas (output (tiempo de vida): X segundos)
+Sabes qué va a pasar y el tiempo no vuelve
+
+Si solo sirve para cosas muy simples, ¿por qué no enfocarnos en la flexibilidad? Porque prender una tecnología muy completa significa más energía necesaria, haz de saber elegir lo que necesitas para toda ocasión. No es lo mismo un panadero cobrando por su delicioso pan que un científico financiero cobrando cantidades super variables por cada stock que llega o se va.
+
+Recuerda las propiedades que viste en el cole sobre la aritmética porque aplican a una pipeline igual.
+
+Otras arquitecturas son: 
+
++ Motivador
+
